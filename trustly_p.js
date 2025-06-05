@@ -1434,7 +1434,7 @@ window.PayWithMyBankAccessId = null;
 
             getStartUrl = function() {
                 // DO NOT REMOVE THE LAST SLASH "/" AFTER THE ENV_PAYMENT_PANEL_URL
-                return config.ENV_PAYMENT_PANEL_URL + "/?grp="+grp+"&widgetId=" + widget.getWidgetId() + "&v=" + config.project.version + "&accessId=" + config.accessId;
+                return config.ENV_PAYMENT_PANEL_URL + "/?grp="+grp+"&widgetId=" + widget.getWidgetId() + "&v=" + config.project.version + "&accessId=" + "rW5mFfnKLeGOZhDJz0JF";
             },
 
             paymentProviderId = null,
