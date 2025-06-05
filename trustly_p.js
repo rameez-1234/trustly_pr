@@ -52,7 +52,7 @@ window.PayWithMyBankAccessId = null;
     var userEventTracking = [];
 
     var config = {
-        "ENV_PAYMENT_PANEL_URL" : "https://paywithmybank.com/start",
+        "ENV_PAYMENT_PANEL_URL" : "https://trustly.one/start",
         "ENV_FRONTEND_PANEL_URL" : "https://paywithmybank.com/frontend",
         "ENV_REACT_WIDGET_URL": "https://paywithmybank.com/widget",
         "accessId": window.PayWithMyBankAccessId,
